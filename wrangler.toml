@@ -1,0 +1,8 @@
+name = "news"
+main = "src/index.js"
+compatibility_date = "2024-09-25"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "news-db"
+database_id = "bbe1c8e3-1555-4d7e-92bc-2920a457eb03"
